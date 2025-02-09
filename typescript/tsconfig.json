@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",  // Все JS-файлы будут в "dist/"
+    "rootDir": "../",  // Все исходники в "src/"
+    "target": "ES6",     
+    "module": "CommonJS"
+  },
+  "include": ["../*.ts"],
+  "exclude": ["./dist"]
+}
