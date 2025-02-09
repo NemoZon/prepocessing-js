@@ -69,6 +69,7 @@ preprocessing/
 │   package.json
 │   README.md
 │   index.js
+|   index.ts
 │
 ├── esbuild/
 │   ├── build.js
@@ -84,7 +85,8 @@ preprocessing/
 │
 └── typescript/
     ├── tsconfig.json
-    ├── dist/
+    ├──webpack
+        ├── dist/
 ```
 
 ---
